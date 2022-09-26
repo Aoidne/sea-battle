@@ -256,8 +256,6 @@ g.start()
 
 
 
-g = Game()
-g.size = 6
-print(g.try_board())
+
 
 
